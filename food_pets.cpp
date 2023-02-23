@@ -5,6 +5,7 @@
 void Array_func()
 {
   std::vector<float>vec{10.23};   
+}
 
 int main ()
 {
